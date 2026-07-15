@@ -1,0 +1,5 @@
+node_modules/
+dist/
+coverage/
+apps/web/playwright-report/
+apps/web/test-results/
